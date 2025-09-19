@@ -71,3 +71,5 @@ print("Integral ≈", Integrando(f, a, b, n))
 
 # Autor
 Ian da Silva Torquato - Discente do curso de Engenharia de Computação (Universidade Federal do Ceará)
+# Vídeo Explicativo
+https://youtu.be/MazpjRmd-uY
